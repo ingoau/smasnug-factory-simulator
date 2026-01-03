@@ -6,10 +6,10 @@
 
 <div class="flex flex-col gap-4 items-start">
     <a
-        href="https://github.com/Inglan/smasnug-factory-simulator"
+        href="https://github.com/ingoau/smasnug-factory-simulator"
         target="_blank"
     >
-        <span class="font-bold">Inglan/smasnug-factory-simulator</span>
+        <span class="font-bold">ingoau/smasnug-factory-simulator</span>
         <br />
         <span>GPL-3.0 license</span>
     </a>
